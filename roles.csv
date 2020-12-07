@@ -1,0 +1,1376 @@
+title;uses;root;language
+Employee;294;;En
+Manager;247;;En
+Customer;188;;En
+Finance;180;;En
+Medarbejder;145;;Da
+Applicant;137;;En
+user;126;;En
+Sagsbehandler;114;;Da
+Automatic;112;;En
+Ansøger;102;;Da
+Company;100;;En
+Doctor;99;;En
+Nurse;96;;En
+Patient;95;;En,Da
+Leder;86;;Da
+Administration;83;;En,Da
+Finance department;78;;En
+DBTrigger;74;;En
+Caseworker;68;;En
+Client;61;;En
+student;60;;En,Da
+Accountant;58;;En
+System;55;;En,Da
+Kunde;51;;Da
+Receptionist;50;;En,Da
+Responsible;50;;En
+server1;49;;En
+Auditor;47;;En,Da
+Heater1;47;;En
+Heater2;47;;En
+Hub1;47;;En
+Light Bulb1;47;;En
+Light Bulb2;47;;En
+Light Bulb3;47;;En
+Person1;47;;En
+Sensor0;47;;En
+Sensor1;47;;En
+Sensor2;47;;En
+Sensor3;47;;En
+Sensor4;47;;En
+Sensor5;47;;En
+Cashier;44;;En
+Bank;44;;En,Da
+Ny medarbejder;43;;Da
+Boardmember;43;;En
+Architect;43;;En
+Borger;41;;Da
+Supervisor;41;;En,Da
+Lawyer;40;;En
+Reviewer 3;40;;En
+chef;40;;En,Da
+Hospital;40;;En,Da
+Specialist;40;;En,Da
+costumer;40;;En
+Hotline Server 1;38;;En
+Hotline Server 2;38;;En
+Reviewer 4;38;;En
+Personale;38;;En,Da
+Supporter;37;;En,Da
+Dispatcher;36;;En
+IKEA Foods;35;;En
+Sales;34;;En
+Person2;34;;En
+Heater3;33;;En
+End User;33;;En
+Admin;32;;En,Da
+ITSM tool;32;;En
+Incident Manager;31;;En
+Physician;30;;En
+IT department;30;;En
+Product Management;30;;En
+Software Development;30;;En
+Project Manager;30;;En
+Financial department;30;;En
+Bruger;29;;Da
+Academy;29;;En
+Secretary;29;;En
+role3;27;;En
+Økonomi;27;;Da
+operations;27;;En
+Buyer;26;;En
+Afdelingsleder;26;;Da
+Real Estate Agent;25;;En
+Intern;25;;En
+Server;25;;En,Da
+Seller;25;;En
+PhD Student;24;;En,Da
+Kontorchef;24;;Da
+developer;24;;En
+Teacher;24;;En
+DBAutomatic;23;;En
+EHealth;23;;En
+Carrier;23;;En
+Runner;23;;En
+Vendor;22;;En
+PhD School Council;22;;En
+Finans;22;;En,Da
+Customer Care 2nd Line;22;;En
+Customer Care 3rd Line;22;;En
+role1;22;;En
+Management;22;;En
+GSopen;21;;En
+post secretary;21;;En
+LecoFood Administration;21;;En
+Aflastningsperson;20;;En
+ColdStore;20;;En
+Production;20;;En
+Tilsynsførende;20;;Da
+Handibasen;19;;Da
+Lead Doctor;19;;En
+role2;19;;En
+Consultant;19;;En
+Project lead;18;;En
+IT A;18;;En,Da
+Ansat;18;;Da
+Family;18;;En
+Formand;18;;Da
+General practitioner;17;;En
+Contract Manager;17;;En
+Support;16;;En,Da
+Bartender;16;;En
+Medical;16;;En
+New Hire;16;;En
+Reception;16;;En,Da
+Mobile;16;;En
+Kommune;16;;Da
+Interview Panel;16;;En
+Fondsadministrator;16;;Da
+Systemansvarlig;16;;Da
+Financial Controller;16;;En
+Resource Manager;16;;En
+Automatisk;15;;Da
+Journalmedarbejder;15;;Da
+Committee;15;;En
+Development;15;;En
+User2;15;;En
+First Reception;15;;En
+Medical Secretary;15;;En
+Secretary general;15;;En
+Financial;15;;En
+IRCT;15;;En
+Legal;15;;En
+1patruljevogn;15;;Da
+Alarmcentral;15;;Da
+DSB Driftsleder;15;;Da
+Fyns politi;15;;Da
+GameMaster;15;;En
+ISLpoliti;15;;Da
+ISLRB;15;;Da
+ISLSUND;15;;Da
+KSNpoliti;15;;Da
+Passagerer;15;;Da
+Pressen;15;;Da
+Redningsberedskab;15;;Da
+Sund og bælt;15;;Da
+Sydsjælland og Lolland Falsters Politi;15;;Da
+Vagtcentral Næstved;15;;Da
+Konsulent;15;;Da
+Bar Manager;15;;En,Da
+Speaker;14;;En
+IT B;14;;En
+Tiden;14;;Da
+Comittee;14;;En
+Arzt;14;;En
+Minister;14;;En,Da
+Technician;14;;En
+Automated System;14;;En
+It supplier;13;;En
+Verifier;13;;En
+3rd party producer;13;;En
+Delivery Company;13;;En
+Graphic designer;13;;En
+Installation people;13;;En
+Production people Da;13;;En
+Production people PL;13;;En
+User1;13;;En
+Waiter;13;;En
+Reviewer;13;;En,Da
+Second reception;13;;En
+Neurological Department;13;;En
+Patient own doctor;13;;En
+Reception 1;13;;En,Da
+Reception 2;13;;En,Da
+Automatik;13;;Da
+Engenharia Externa;13;;Pt
+Engenharia interna;13;;Pt
+Gerente comercial;13;;Pt
+Gerente de operationes;13;;Pt
+Gerente de suprimentos;13;;Pt
+Gerente Financeiro;13;;Pt
+Planejador;13;;Pt
+Parliament;13;;En,Da
+Timed Event;13;;En
+Buyer's lawyer;13;;En
+PhD Support;12;;En,Da
+Vice Chancellor;12;;En,Da
+Kortudsteder;12;;Da
+Kursusarrangør;12;;Da
+Hospital Employee;12;;En
+Guest;12;;En
+Hartmanns consultant;12;;En
+Human Resources;12;;En
+Charlotte;12;;En,Da
+Annette;12;;En,Da
+Tillidsrepræsentant;12;;Da
+GoMore;12;;En,Da
+LeasePlan;12;;En
+Project Team;12;;En
+Ledelsessekretariatet;12;;Da
+Lehrstuhl;12;;En,Da
+Projektleder;12;;Da
+Data subject;11;;En
+Best1;11;;Da
+Best2;11;;Da
+Role 1;11;;En
+Head of ICT;11;;En
+ICT Department;11;;En
+robot;11;;En,Da
+Person;11;;En,Da
+Cliente;11;;Es,Pt
+Buyers Representative;11;;En
+Finance Dep;11;;En
+Hartmanns Account Manager;11;;En
+IT system;11;;En,Da
+Editor;11;;En
+Board Member;11;;En
+Hospital receptionist;11;;En,Da
+Specialist nurse;11;;En
+UBS receptionist;11;;En,Da
+Kursusansvarlig;11;;Da
+Logistics;11;;En
+Regular User;11;;En
+System Administrator;11;;En,Da
+Forhandlingsberettiget organisation;10;;Da
+IT service;10;;En,Da
+Clerk's Office;10;;En
+Mobile consultant;10;;En
+DB Employee;10;;En
+Hospital management;10;;En
+Hospital specialist;10;;En,Da
+Non specialist physician UBS;10;;En
+UBS management;10;;En
+Staff;10;;En
+Vandværksejer;10;;Da
+Forvaltning;10;;Da
+Controller;10;;En,Da
+Case Worker;10;;En
+Government;10;;En
+Bank employee;10;;En
+Finance manager;10;;En
+Municipality;10;;En
+Release Manager;10;;En
+Project leader;10;;En
+Project Coordinator;10;;En
+DanChurchAid;10;;En
+Tekniker;10;;Da
+PhD Supervisor;9;;En,Da
+Best3;9;;Da
+Espectador;9;;Pt
+Bogføringsansvarlig;9;;Da
+Jobcenter;9;;Da
+ICT project coordinator;9;;En
+Attacker;9;;En
+IT Support;9;;En,Da
+Employees;9;;En
+Researcher;9;;En,Da
+Hiring Manager;9;;En
+ROTA;9;;En
+Building Services;9;;En
+Service Desk;9;;En
+økonomiafdeling;9;;Da
+Nyansat;9;;Da
+Kommunalbest;9;;Da
+deputy manager;9;;En
+Head of the PhD School;9;;En
+Database;9;;En,Da
+Krankenschwester;9;;De
+Input;9;;En
+Adm.sags;9;;Da
+Adm.sags. Acadre;9;;Da
+Adm.sags. Doc2mail;9;;Da
+Adm.sags. Excel;9;;Da
+Adm.sags. KMD Nexus;9;;Da
+Adm.sags. Mail;9;;Da
+Adm.sags. Papir;9;;Da
+Adm.sags. print/scan;9;;Da
+Adm.sags. Word;9;;Da
+House;8;;En
+GRF/Sagsbehandler;8;;Da
+Tier 2;8;;En
+Oberarzt der Poliklinik;8;;De
+Supplier;8;;En
+Agent;8;;En,Da
+IT User;8;;En
+Participant;8;;En
+Approver;8;;En
+Examiner;8;;En
+Nonspecialist;8;;En
+Udbudsjurist;8;;Da
+Borgeren;8;;Da
+Studerende;8;;Da
+Case Manager;8;;En
+Engineer;8;;En
+role 2;8;;En
+Tester;8;;Da
+Camilla;8;;En,Da
+Disabled citizen;8;;En
+Board;8;;En
+Contributor SME;8;;En
+Control Owner;8;;En
+Implementer;8;;Da
+Risk Identifier;8;;En
+Risk Manager;8;;En
+Risk Owner;8;;En
+Rådgiver;8;;Da
+Papel 1;8;;En,Da
+Papel 2;8;;En,Da
+Ansættelsesudvalg;8;;Da
+Indberetter;7;;Da
+Case handler;7;;En
+Journal;7;;En,Da
+Kommunen;7;;Da
+Underretter;7;;Da
+Organizer;7;;En
+Teamleder;7;;En,Da
+Medico;7;;Es,Pt
+Host university;7;;En
+Delivery;7;;En
+Help desk;7;;En
+Bo and Henrick;7;;En
+role4;7;;En
+Thomas;7;;En,Da
+Sekretær;7;;Da
+New Employee;7;;En
+Leverandør;7;;Da
+QueueReceptionist;7;;En
+CheckInReceptionist;7;;En
+Facilities management;7;;En
+Arzt der Poliklinik;7;;De
+Oberarzt;7;;De
+Studienævn;7;;Da
+Uddannelseskoordinator;7;;Da
+IT supporter;7;;En,Da
+internal support;7;;En
+TOPdesk;7;;En
+IT-support employee;7;;En
+Telefonadministrator;7;;Da
+Exformatics;7;;En,Da
+Output;7;;En
+Processor;7;;En,Da
+Parent;7;;En
+GRF/Kontorchef;6;;Da
+Formand for ansættelsesudvalg;6;;Da
+Repræsentant fra faglig organisation;6;;Da
+HelpDesk;6;;En
+Linieleder;6;;Da
+Studenterrepræsentant;6;;Da
+Fagkontor;6;;Da
+Organisation;6;;En,Da
+Extern event;6;;Da
+DevCon;6;;En
+Professor;6;;En,Da
+Bogholder;6;;Da
+Administrator;6;;En,Da
+Stat;6;;Da
+Direktion;6;;Da
+Anlaegsejer;6;;Da
+Direktør;6;;Da
+Customer Care;6;;En
+doctor secretary;6;;En
+Order team;6;;En
+Sales Production;6;;En
+Sales team;6;;En
+Non specialist;6;;En
+Service Desk System;6;;En
+Joii Sushi;6;;En
+KONGSBAK;6;;Da
+Dagstuhl staff;6;;En
+Læge;6;;Da
+Ekstern support;6;;Da
+Threat agent;6;;En
+Tekniker support;6;;Da
+Gestor;6;;Es,Pt
+Secretario;6;;Es,Pt
+Lønservice;6;;Da
+Journal employee;6;;En
+Office manager;6;;En
+Section manager;6;;En
+Kontor;6;;Da
+Role 1 Updated;6;;En
+Finance Dept;6;;En
+IT sikkerhed;6;;Da
+User1 Lazy;5;;En
+User2 Agressive;5;;En
+User3 Normal;5;;En
+Sagsbehandler 1;5;;Da
+Sagsbehandler 2;5;;Da
+Køber;5;;Da
+Mægler;5;;Da
+Usuario;5;;Es,Pt
+Requisitante;5;;Pt
+Digitalisering;5;;Da
+Kommune A;5;;Da
+Kommune B;5;;Da
+Autoridade;5;;Pt
+Administrativ;5;;Da
+Workbase;5;;En
+Staten;5;;Da
+Sygeplejerske;5;;Da
+External Support;5;;En
+BOSS;5;;En
+Timer;5;;En
+Author;5;;En
+Clerk;5;;En
+Personal Bank Advisor;5;;En
+Forelæser;5;;Da
+External event;5;;En
+Udbudskonsulent;5;;Da
+Teamkoordinator Udbudsteam;5;;Da
+Udbudsteam;5;;Da
+Facility Management;5;;En
+Afdelingschef;5;;Da
+2nd line support;5;;En
+3rd line support;5;;En
+Fondskoordinator;5;;Da
+Head of Department;5;;En
+Visitator;5;;Pt
+Problem Described;5;;En
+IT kursusansvarlig;5;;Da
+Tillidsrepræsentant med forhandlingsret;5;;Da
+Lønmodtager;5;;Da
+Administrative sagsbehandler;5;;Da
+Socialrådgiver;5;;Da
+Vascular Surgeon;5;;En
+Økonomichef;5;;Da
+Participant 1;5;;En
+Participant 2;5;;En
+Participant 3;5;;En
+Sygeplejen;5;;Da
+Ældre over 75;4;;Da
+Egen læge;4;;Da
+Hjemmeplejen;4;;Da
+Hospitalet;4;;Da
+Pårørende;4;;Da
+Intern,IT B;4;;En
+IT A,Sales;4;;En
+IT B,Mobile;4;;En
+Sales IT ,A;4;;En
+Worker;4;;En
+Fagrådgivere;4;;Da
+GRF/Beregningsteam;4;;Da
+GRF/Holdleder;4;;Da
+Bruger udfyldt;4;;Da
+Hentet fra database;4;;Da
+Bestyrelsesmedlem;4;;Da
+Designer;4;;En,Da
+Optjeningsarbejdsgiver;4;;Da
+Star;4;;En
+Feriekonto;4;;Da
+Ekstern konsulent;4;;Da
+Intro kursusansvarlig;4;;Da
+Broker;4;;En
+Execution;4;;En
+Freight Agent;4;;En
+Faglig organisation;4;;Da
+Column;4;;En
+Enkel;4;;Da
+Udvidet;4;;Da
+Customer / Vendor;4;;En
+Citizen;4;;En
+Natural person;4;;En
+Grill Ass;4;;En
+Board of Studies;4;;En
+EKSTERN;4;;En,Da
+SAGBEH;4;;Da
+DevOps;4;;En
+Baltiske Kontorer;4;;Da
+Study Administration;4;;En
+Teaching Assistant;4;;En
+John;4;;En,Da
+Barista;4;;Da
+Chief of Section;4;;En
+Revisor;4;;En,Da
+ConsultantDeveloper;4;;En
+1 day response;4;;En
+lols;4;;En
+IT afdeling;4;;Da
+Police;4;;En
+Partners;4;;En
+Syddjurs Municipality management;4;;En
+Citizen Helper;4;;En
+HR Manager;4;;En
+Facilities;4;;En
+HR afd;4;;Da
+ICT Chief;4;;En
+ICT TEAM;4;;En
+Helper;4;;En
+Syddjurs Municipality;4;;En
+Auto;4;;En,Da
+Modtagelse familierådgiver;4;;Da
+Sekretariatetsmedarbejder;4;;Da
+Forældremyndighedsindehaver;4;;Da
+Medarbejderen;4;;Da
+A kasse;4;;Da
+Service Desk Supervisor;4;;En
+servicedesk;4;;En
+Acadre;4;;En,Da
+Real Estate;4;;En
+accounts;4;;En
+Outlook;4;;En,Da
+Regnskab;4;;Da
+Barnet;4;;Da
+Forældre;4;;Da
+Barn;4;;Da
+Sekretariatet;4;;Da
+DIRSEK;4;;En,Da
+Document Owner;4;;En
+Meeting Manager;4;;En
+WissMit;4;;En,Da
+Opus;3;;En,Da
+Facilities Mngmt;3;;En
+Application Owner;3;;En
+Application Provider;3;;En
+Business Partner;3;;En
+IT Finance;3;;En
+SAP Delivery Responsible;3;;En
+Software Asset Manager;3;;En
+Delivery Guy;3;;En
+Pizzeria;3;;En,Da
+Surgical Suite;3;;En
+Nærmeste leder;3;;Da
+Sagsbehandler 3;3;;Da
+HR Partner;3;;En,Da
+Scrum Master;3;;En,Da
+Kollega;3;;Da
+Jobcenteret;3;;Da
+Ledelse;3;;Da
+SFR koordinator;3;;Da
+SFR skoledistrikt;3;;Da
+Sundhedsplejen;3;;Da
+Værge;3;;Da
+Autoridade Competente;3;;Pt
+Løn og HR;3;;Da
+Retrieval interface;3;;En
+Administrative medarbejder;3;;Da
+Leverance;3;;En,Da
+Fremmødesystem;3;;Da
+IT Acadre;3;;En,Da
+IT Workbase_Jobcentersystem;3;;Da
+Kursusudbyder;3;;Da
+Virksomheds APP;3;;Da
+Virksomhedssted;3;;Da
+role 3;3;;En
+Borgerservice;3;;Da
+Sticks n Sushi;3;;En,Da
+Recruitment Consultant;3;;En
+Social Worker;3;;En
+InDaøb;3;;Da
+HR afdeling;3;;Da
+Communication;3;;En
+SnS restaurant;3;;En,Da
+Game Master;3;;En
+Local Rescue;3;;En
+Remote Control;3;;En
+Host;3;;En,Da
+Card;3;;En
+Document;3;;En
+Netbank;3;;En,Da
+External company;3;;En
+IT FOS Supporter Da;3;;En
+IT FOS Supporter NJ;3;;En
+IT FOS Supporter NL;3;;En
+IT Front Office Supporter;3;;En
+IT Servicedesk Supervisor;3;;En
+Servicedesk System;3;;En
+Styrelsen for Videregående Uddannelser;3;;Da
+Evaluator;3;;En,Da
+Unknown;3;;En
+Introduction Department;3;;En
+IT Manager;3;;En
+Hospital admin;3;;En,Da
+Own Doctor;3;;En
+First receptionist;3;;En
+Second receptionist;3;;En
+Styrelse;3;;Da
+Pharmacist;3;;En
+Passenger;3;;En,Da
+Departementet;3;;En
+User3;3;;En
+Role no 1;3;;En
+Role no 2;3;;En
+Kursusleder;3;;Da
+Booker;3;;En,Da
+Kantinechef;3;;Da
+Kommunalbestyrelse;3;;Da
+Bioanalyst;3;;Da
+coffee maker;3;;En
+Cyclotron unit;3;;En
+Department laboratory;3;;En
+Department Physician;3;;En
+PET Scanner;3;;En,Da
+Physician on call;3;;En
+Referring Clinic;3;;En
+Synthesis unit;3;;En
+Teamkoordinator;3;;Da
+Teamkoordinator Udbud;3;;Da
+Bad guy;3;;En
+HR medarbejder;3;;Da
+IT medarbejder;3;;Da
+Undersøgelsesvagt;3;;Da
+DSB Operation;3;;Da
+Dep A;3;;En
+Dep B;3;;En
+Adm arbejder;3;;Da
+Fraskilt forældre;3;;Da
+Inv. team;3;;En
+Investee;3;;En
+Sales department;3;;En
+Cleks Office;3;;En
+Role 11;3;;En
+Bostøtte;3;;Da
+Interessenter;3;;Da
+Rådgivning;3;;Da
+Straks Team;3;;Da
+Cross-System;3;;En
+External;3;;En
+FASIT;3;;En,Da
+Manual;3;;En,Da
+Udviklingsmål;3;;Da
+Administrative Employee;3;;En
+Facilities Management (FM;3;;En
+HR-afdeling;3;;Da
+Director;3;;En
+Head of PhD School Council;3;;En
+ITHD;3;;En
+Omsorgssystem;3;;Da
+Arbejdsgiver;3;;Da
+Reservation FO;3;;En,Da
+Forretning (generelt;3;;Da
+AFF: årshjul;3;;Da
+AFF: Bogholderi;3;;Da
+AFF: Regnskab;3;;Da
+AFF:Robot;3;;Da
+AI Robot;3;;En,Da
+Feriearbejsgiver;3;;Da
+Skat;3;;Da
+Engenharia de Produto;3;;Pt
+P&D, MKT, Diretoria;3;;Pt
+Jurist;3;;Da
+The buyer;3;;En
+HKer;3;;Da
+mentor;3;;En,Da
+Kundeservice;3;;Da
+Deltid (SAP;3;;Da
+Learning Support;3;;En
+Employee responsible;3;;En
+Accounting;3;;En
+Manufacturer;3;;En
+Parts supplier;3;;En
+ITSM;3;;En
+Arkitekt;3;;Da
+The Seller;3;;En
+Forbruger;3;;Da
+Hawkpower;3;;En
+Bankrådgiver;3;;Da
+Buyers Lawyer;3;;En
+Front End Developer;3;;En
+FailureDetector;3;;En
+.Net Dev;2;;En
+Android Dev;2;;En
+IOS Dev;2;;En
+Stack Holder;2;;En
+Web dev;2;;En
+3. part;2;;En,Da
+BuyerLawyer;2;;En
+EnforcementSystem;2;;En
+RealEstateAgent;2;;En
+The buyer's lawyer;2;;En
+The real estate agent;2;;En
+OS2 formand;2;;Da
+OS2 mailbox;2;;En
+OS2 sekretariatsmedarbejder;2;;Da
+Sekretariatetschef;2;;Da
+Ejendomsmægler;2;;Da
+Vejret;2;;Da
+MIchael;2;;En,Da
+Jura;2;;Da
+Back end Developer;2;;En
+Chairman;2;;En
+Bogføringsansvarlige;2;;Da
+Dagsordensamler;2;;Da
+Backend;2;;En
+Leverings afd;2;;Da
+Controller;2;;En
+Real-estate;2;;En
+Access Management;2;;En
+Approval Manager;2;;En
+Trainer;2;;En
+Fagcenter;2;;Da
+Styregruppe;2;;Da
+Styregruppeform;2;;Da
+Projektejer;2;;Da
+Rolle2;2;;Da
+Sagsarbejder;2;;Da
+dolor;2;;Pt
+Factory manager;2;;En
+Machine operator;2;;En
+Quality checker;2;;En
+Actor;2;;En
+Ext. Contract;2;;En
+External contract;2;;En
+No user;2;;En
+Placeholder activity;2;;En
+Users of internal workflow;2;;En
+e-nettet support employee;2;;En
+external supplier;2;;En
+AFF: Sagsbehandler;2;;Da
+VIRK;2;;Da
+Tjener;2;;Da
+Vascolar surgeon;2;;En
+Back Office;2;;En
+Sagskoordinator;2;;Da
+Screening;2;;En
+EOJ admin;2;;En,Da
+Body;2;;En
+Brain;2;;En
+Steven;2;;En,Da
+Worker A;2;;En
+Worker B;2;;En
+Serviceleder;2;;Da
+Rekruttering;2;;Da
+The new employee;2;;En
+End-User;2;;En
+Repræsentant Faglig organisation;2;;Da
+TR med forhandlingsret;2;;Da
+TR uden forhandlingsret;2;;Da
+Lønmedarbejder;2;;Da
+Computation;2;;En
+some role;2;;En
+Bet3;2;;Da
+DPO / PM;2;;En,Da
+External user;2;;En
+User N;2;;En
+KMD aktiv;2;;Da
+Evaluatorer;2;;Da
+Kriseberedskab;2;;Da
+BDa RFC;2;;En
+BDa Togleder ;2;;Da
+chefvagt;2;;Da
+DSB Driftleder;2;;Da
+DSB Infodriftleder;2;;Da
+Kommerciel systemvagt;2;;Da
+Ledelse trafikinformation;2;;Da
+Lokomotivfører;2;;Da
+Politi;2;;Da
+pressevagt;2;;Da
+Trafikal beredskabsvagt;2;;Da
+trafikchef;2;;Da
+trafikinfo;2;;Da
+Beredskabsvagt;2;;Da
+Executive Committee;2;;En
+SAP administrator;2;;En,Da
+ROTA Employee;2;;En
+UBS Employee;2;;En
+Inspector;2;;En
+Customer Care 2nd line supprot;2;;En
+Customer Care 3rd line support;2;;En
+Beslutningsmotor;2;;Da
+Brevfletter Agent;2;;Da
+Doc2Mail Agent;2;;En
+Jupiter Agent;2;;En
+SBSYS Agent;2;;En
+CM system;2;;En,Da
+Teamkoordinator CM;2;;Da
+Kursleder;2;;Da
+Immingham User;2;;En
+IO manager;2;;En,Da
+Receive Invoice;2;;En
+victor;2;;En,Da
+employee 1;2;;En
+employee 2;2;;En
+Nurse2;2;;En
+DB Admin;2;;En,Da
+Group member;2;;En
+Conductor;2;;En
+Driver;2;;En
+Storage Manager;2;;En
+Bestyrelse;2;;Da
+Danske Bank Employee;2;;En
+server2;2;;En,Da
+Software Developer;2;;En
+Tilsynskonsulent;2;;Da
+2nd line;2;;En
+Facility Mgt;2;;En
+KOSS;2;;En
+SystemAutomation;2;;En
+Training;2;;En
+Clinic;2;;En
+BankEmployee;2;;En
+Managing Director;2;;En
+Referee;2;;En
+IT Contact;2;;En
+IT Coordinator;2;;En
+Colleague;2;;En
+Economic Advisor;2;;En
+Legal Advisor;2;;En
+Oversight Consultant;2;;En
+Review and Ruling Committee;2;;En
+reception secretary;2;;En
+superior doctor;2;;En
+Hotline server;2;;En
+Bookkeeper;2;;En
+Takstmann;2;;De
+Front Office Supervisor;2;;En
+Servant;2;;En
+Rolle 1;2;;Da
+Mechanic;2;;En
+Procurement;2;;En
+Child;2;;En
+IT FOS Supporter;2;;En
+Service Desk Officer;2;;En
+media;2;;En,Da
+HR afdelingen;2;;En
+Familievaerket Coordinator;2;;En
+Handibasen Coordinator;2;;En
+Muncipality;2;;En
+Lærer;2;;Da
+Naturcenter;2;;Da
+Skole;2;;Da
+Visitation Commitee;2;;En
+Trade union representative;2;;En
+Project Coord;2;;En
+Coordinator;2;;En
+økonomimedarbejder;2;;Da
+FOS DaNLUS;2;;En
+Alarm Center;2;;En,Da
+Control Center;2;;En
+Medical Rescue;2;;En
+COMPDEC;2;;En
+Regional;2;;En,Da
+Medarbejder_nyansat;2;;Da
+Aktivitetsparate Kontantshjælpsmodtagere;2;;Da
+Forsikrede Ledige;2;;Da
+goDaender;2;;En
+distributor;2;;En
+Requistante;2;;Pt
+kommunalbestyrelsen;2;;Da
+Barnet ell Unge;2;;Da
+Communication Manager;2;;En
+Revision;2;;En,Da
+Jobparate Kontanthjælpsmodtagere;2;;Da
+Uddannelsesparate_2;2;;Da
+underretter m skærpet pligt;2;;Da
+A kassen;2;;Da
+Development Team;2;;En
+Product Owner;2;;En
+HR Service;2;;En,Da
+IT 3270;2;;En
+IT Activedirectory;2;;En
+IT Exchange;2;;En
+IT inDaøb;2;;En
+IT telefoni;2;;Da
+Betalingskommune;2;;Da
+Handlekommune;2;;Da
+FM Intern sikkerhed;2;;Da
+FM service;2;;En,Da
+HR Løn;2;;Da
+Bestiller;2;;Da
+udførende;2;;Da
+Udførende 2;2;;Da
+Udførende 3;2;;Da
+Bestilling;2;;Da
+Funktionsleder;2;;Da
+Afdeling;2;;Da
+Best4;2;;Da
+Billing dept;2;;En
+Data Protection Officer;2;;En,Da
+Purchaser;1;;En
+Applications responsible;1;;En
+Facility Mgmt;1;;En
+Affiliated companies' employee;1;;En
+Rejsekort employee;1;;Da
+Rejsekort's system;1;;Da
+1st Level Support;1;;En
+Technical Teams;1;;En
+IT Manager, Support Group;1;;En
+Equipe de planejamento e risco;1;;Pt
+Autoridade Administrativa;1;;Pt
+Contratada;1;;Pt
+Role0;1;;En
+1st line Ebeltoft;1;;En
+1st line Hornslet;1;;En
+ESDH;1;;Da
+IT-projektledelse;1;;Da
+NSP system;1;;En,Da
+businessActor;1;;En
+Ungerne;1;;Da
+Faglig konsulent;1;;Da
+Tilbudssted;1;;Da
+Staffer;1;;En,Da
+Bus.Dev;1;;En
+Sen.staff;1;;En
+Producer;1;;En
+Kitchen Staff;1;;En
+Headoffice;1;;En
+Inquisitor;1;;En
+Suspected Jew;1;;En
+Payout;1;;En
+Aztec Villager;1;;En
+Aztec Warrior;1;;En
+Conquistador;1;;En
+Heathershield Enterprise;1;;En
+Lyngskjold Inc;1;;En
+Bedømmelsesudvalg;1;;Da
+Aprover;1;;En
+RES chef;1;;Da
+RES-HR;1;;Da
+Bygherre;1;;Da
+Evaluation commitee;1;;En
+University staff;1;;En
+1st line;1;;En
+Indbyggere;1;;Da
+Spillerne;1;;Da
+Ekstern auditør;1;;Da
+IT-manager;1;;Da
+Kommunaldirektør;1;;Da
+App ejer;1;;Da
+barnet eller den unge;1;;Da
+familien;1;;Da
+underretter_fagperson;1;;Da
+Pleje  Anbring konsulent;1;;Da
+Bogholde;1;;Da
+Aarbejdsløshedskasse;1;;Da
+DETRAN;1;;En
+Learner;1;;En
+Tutor;1;;En,Da
+Ledelsen;1;;Da
+Revisionen;1;;Da
+Departementschef;1;;Da
+Bogføring;1;;Da
+Ekstern revision;1;;Da
+kitchen;1;;En
+PA  office manager;1;;En
+papel 3;1;;
+Paciente;1;;Pt
+Ny medarbedjer;1;;Da
+Entreprise;1;;En,Da
+Installation;1;;En,Da
+Administrativ medarbejder FV;1;;Da
+Computer;1;;En,Da
+Faglig koordinator;1;;Da
+FV leder;1;;Da
+FV medarbejder;1;;Da
+Visitationsudvalget;1;;Da
+Anwender;1;;En
+Legal dep;1;;En
+Authorized user;1;;En
+medlemmer af husstanden;1;;Da
+KK Arkitekt;1;;Da
+KK Medarbejder;1;;Da
+Ansvarlig;1;;Da
+GoDaendt;1;;En
+Udfører;1;;Da
+LønTeam;1;;Da
+Edoc;1;;En
+Boliganvisning;1;;Da
+Boligselskab;1;;Da
+parties;1;;En
+Autorida competente da ADM;1;;Pt
+Autoridade ADM;1;;Pt
+Salg;1;;Da
+HR Consultant;1;;En
+Trust Representative;1;;En
+Administrativ sagsbehandler;1;;Da
+Cousumer;1;;En
+Shop clerk;1;;En
+Tidlig indsats;1;;En
+Ydelseskontor;1;;Da
+Surveyor;1;;En
+Virksomhedskonsulent;1;;Da
+Arbejdsløshedskassen;1;;Da
+Teknisk Service;1;;Da
+Den nyansatte;1;;Da
+Arbejdsløshedskasserne;1;;Da
+Kantine;1;;Da
+Akasse;1;;Da
+Jobnet;1;;Da
+Dræber;1;;Da
+Killer;1;;En
+Shop Assistant;1;;En
+Cleaning Staff;1;;En
+Piccolo;1;;En,Da
+Administrationschef;1;;Da
+Borgerservicechef;1;;Da
+Sikkerhed;1;;Da
+Family counselor;1;;En
+Head of Social Worker;1;;En
+Member of the public;1;;En
+Municipality Administration;1;;En
+Municipality worker;1;;En
+Parents;1;;En
+Professionals;1;;En
+Teachers;1;;En
+Aflastningsperson 1;1;;Da
+DSB Crisis Response;1;;En
+Digital Content Specialist;1;;En
+Project Design Team 1;1;;En
+Project Designer;1;;En
+Bidder;1;;En
+LEGO Analyst;1;;En
+LEGO Marketing and PR;1;;En
+LEGO Project Team;1;;En
+Target Users;1;;En
+Administrativ medarbejder;1;;Da
+Familiebehandler;1;;Da
+Registarar;1;;Pt
+Byggeplads;1;;Da
+Byggestyring;1;;Da
+Bygherre og beboere;1;;Da
+Faciliity Management;1;;En
+Communications Manager;1;;En
+Headhunter;1;;En
+Ministry of Transportations;1;;En
+Kalkulation økonomi;1;;Da
+Kvalitetssikring drift og vedligehold;1;;Da
+Materiel;1;;Da
+Proces Lean og support;1;;Da
+Underentreprenør og leverandør;1;;Da
+planlægger;1;;Da
+SOSU assistent medhjælper eller ufaglært;1;;Da
+Analytics Expert;1;;En
+Business Case Team;1;;En
+Consumer Behavior Specialist;1;;En
+Developers;1;;En
+Stationsbestyrer;1;;Da
+Fagperson;1;;Da
+Bridge Control;1;;En
+FMafdeling;1;;Da
+HRafdeling;1;;Da
+Medarbejderens Chef;1;;Da
+FM facility management;1;;En
+Borrower;1;;En
+Asset;1;;En
+Input interface;1;;En
+Transmission medium;1;;En
+Lecturer;1;;En
+Bank advisor;1;;En
+Extern hospital;1;;En
+Physician at duty;1;;En
+Kommunikationschef;1;;Da
+Rekrutteringskonsulent;1;;Da
+Transportministeriet;1;;Da
+Mother;1;;En
+Lokofører;1;;Da
+Families;1;;En
+Local professors;1;;En
+FM Employee;1;;En
+Sygemeldt;1;;Da
+Candidate;1;;En
+Department Manager;1;;En
+Data;1;;En,Da
+Udefrakommende hændelse;1;;Da
+IT afdelingen;1;;Da
+Fabrik;1;;Da
+Outsourced company;1;;En
+Handicapped citizen;1;;Da
+Helping citizen;1;;Da
+Reporter;1;;En,Da
+Machine;1;;En,Da
+Offer;1;;Da
+Vigtig person;1;;Da
+Aflastningsfamilie;1;;Da
+Bogholderi;1;;Da
+Dept Manager;1;;En,Da
+Vendor Manager;1;;En
+Peer;1;;En
+Writer;1;;En
+Expert;1;;En
+IT Management;1;;En
+Service Desk guy;1;;En
+Eksportoer;1;;Pt
+Betalingssystem;1;;Da
+Teacher;1;;En
+Students;1;;En
+Appraiser;1;;En
+Book Keeper;1;;En
+Creator;1;;En
+Kickstarter;1;;En
+Network;1;;En
+Applicants;1;;En
+HR and Manager;1;;En
+Employer;1;;En
+Hotline worker;1;;En
+credit card system;1;;En
+dishwasher;1;;En
+Nets;1;;En,Da
+Rigsrevision;1;;Da
+Trader;1;;En
+Clinical Pharmacist;1;;En
+Peer Review;1;;En
+owner;1;;En
+Advertiser;1;;En
+Normal Customer;1;;En
+Service Provider;1;;En
+Eduardo;1;;Pt
+Ministerie;1;;Da
+Brevfletning;1;;Da
+DigitalPost;1;;Da
+SBSys;1;;En,Da
+Development Lead;1;;En
+postdoc;1;;En,Da
+Bagnino;1;;Pt
+Cane da Guardia;1;;Pt
+Natante;1;;Pt
+Demolition;1;;En,Da
+Major;1;;En,Da
+Sniper;1;;En,Da
+Tømrer;1;;Da
+Cook;1;;En
+master;1;;En
+minion;1;;En
+Barkeeper;1;;En
+Beverage Responsible;1;;En
+Warehouse Responsible;1;;En
+Ledig;1;;Da
+Inventory Manager;1;;En
+Call Center;1;;En
+HR_Department;1;;En
+Call Center Staff;1;;En
+Clients;1;;En
+Support Staff;1;;En
+Juridisk sektion;1;;Da
+Kontrolenhed;1;;Da
+Vejleder;1;;Da
+aprovador;1;;Pt
+Ekstern aktør;1;;Da
+Support Group;1;;En
+Nurse A;1;;En
+Nurse B;1;;En
+CPH User;1;;En
+doc2mail;1;;En
+kursist;1;;Da
+vicevært;1;;Da
+Boss man;1;;En
+Finance people;1;;En
+Teankoordinator udbudsteam;1;;Da
+Intern konsulent;1;;Da
+Afdelingspostkasse;1;;Da
+Contract Management team;1;;En
+Enhedspostkasse;1;;Da
+Medarbejder i CM team;1;;Da
+Delivery man;1;;En
+Restaurant;1;;En,Da
+Website;1;;En
+Alarm central;1;;Da
+1 line support;1;;En
+Netbutik ansvarlige;1;;Da
+chef 1;1;;En,Da
+Game designer;1;;En,Da
+Graphics designer;1;;En,Da
+Production manager;1;;En
+Senior consultant;1;;En
+Automate;1;;Pt
+BaneDanmarkAuditor;1;;Da
+Systemejer;1;;Da
+Copenhagen User;1;;En
+Finance Dept;1;;En
+Health Dept;1;;En
+Law Dept;1;;En
+Membership application process at IRCT;1;;En
+Doktor;1;;Da
+sygeplejer;1;;Da
+Public;1;;En
+Buyer Representative;1;;En
+ITSystem;1;;En,Da
+MobileConsultant;1;;En
+Petty User;1;;En
+Woman;1;;En
+publisher;1;;En
+Caixa do banco;1;;Pt
+Gerente;1;;Pt
+Bank assistant;1;;En
+Line Manager;1;;En
+Exam office;1;;En
+Buddy;1;;En
+Account Manager;1;;En
+Journalist;1;;En,Da
+Redaktør;1;;Da
+Adm direktør;1;;Da
+Driftscenter;1;;Da
+Trafikalt beredskab;1;;Da
+Bank manager;1;;En
+Time master;1;;En
+Sekretariat;1;;Da
+Studentermedhjælper;1;;Da
+Super screener;1;;En
+Screenere;1;;Da
+Studenterhjælper;1;;Da
+Board of study;1;;En
+Auditing Doctor;1;;En
+Ext. Consultants;1;;En
+Info. manager;1;;En
+PhD admin;1;;En
+Evaluation comitee;1;;En
+Case master;1;;En
+IT-Supporter;1;;En,Da
+Kontraktkontoret;1;;Da
+NetworkEngineer;1;;En
+Security;1;;En
+TeamLeader;1;;En
+TestEngineer;1;;En
+EndUser;1;;En
+SuperUser;1;;En
+Modtagelse;1;;Da
+Kontaktperson/botilbudsmedarbejder;1;;Da
+Postvagt;1;;Da
+samarbejdspartner;1;;Da
+Visitationskonsulenter;1;;Da
+Client employee;1;;En
+Client Manager;1;;En
+Analyse enhed;1;;Da
+Den udøvende;1;;Da
+Myndighed;1;;Da
+Politisk niveau;1;;Da
+Internationalt kontor;1;;Da
+Linjeleder;1;;Da
+Studenterrepresentant;1;;Da
+Color Department;1;;En
+Cutting Department;1;;En
+Finalizing Department;1;;En
+Frame Department;1;;En
+Data owner;1;;En
+EU-Oplysningen;1;;Da
+Adm. Team;1;;En,Da
+Pensionsnævn;1;;Da
+Branch manager;1;;En
+HR Executive;1;;En
+Web editor;1;;En
+Virksomhed;1;;Da
+Operator;1;;En,Da
+Lægevagt;1;;Da
+Admin i afdeling;1;;Da
+Admin i IT;1;;Da
+HR-medarbejder;1;;Da
+Leder i afd;1;;Da
+Rental;1;;En
+Executive department;1;;En
+HR-afdelingen;1;;Da
+Purchase Department;1;;En
+Tekniker i IT;1;;Da
+Customer Services;1;;En
+IT bruger;1;;Da
+Event Management;1;;En
+Decentral systemadministrator;1;;En
+Acadre TL;1;;Da
+Acadre teamleder;1;;Da
+Tillidsrepræsentant uden forhandlingsret;1;;Da
+Authority;1;;En
+Social Counselor;1;;En
+Facilitator;1;;En,Da
+Referant;1;;Da
+Grant holder;1;;En
+Head of administration;1;;En
+Head of Section;1;;En
+Forretning;1;;Da
+Intern support;1;;Da
+Intern support leder;1;;Da
+Praktikant;1;;Da
+Vært;1;;Da
+Restaurant chef;1;;Da
+Causable;1;;En
+NNIT support;1;;En,Da
+Systematic support;1;;En,Da
+Feriearbejdsgiver;1;;Da
+System auto;1;;En,da
+Renter;1;;En
+Logistic;1;;En
+Buying company;1;;En
+Selling company;1;;En
+Chauffør;1;;Da
+VF leverance;1;;Da
+Data Processor;1;;En
+Arkivar;1;;Da
+Kvalitetsteam;1;;Da
+Porteføljestyre;1;;Da
+The buyers Lawyer;1;;En
+Postfordeler;1;;Da
+Superbruger;1;;Da
+Tjenesten;1;;Da
+Trolde;1;;Da
+Datascanning;1;;Da
+Diretoria;1;;Pt
+Community Manager;1;;En
+Medlem;1;;Da
+Sekretariatschef;1;;Da
+Union;1;;En,Da
+IT-Koordinator;1;;Da
+Forretningskonsulent;1;;Da
+IT-chef;1;;Da
+It-medarbejder;1;;Da
+procesejere;1;;Da
+Economy department;1;;En
+Kontrakt;1;;Da
+Udbud;1;;Da
+Client partner;1;;En
+Control Employee;1;;En
+Front employee;1;;En
+Finance employee;1;;En
+Facilies management (FM;1;;En
+Specilist;1;;En
+Ansvarlig for dagsordenpunkt;1;;Da
+Borgmester;1;;Da
+Center;1;;En,Da
+Centerchef;1;;Da
+Sagsbehandler faglig;1;;Da
+Udvalgsformand;1;;Da
+Leveranceansvarlig;1;;Da
+Ext Consultant;1;;En
+External Konsultant;1;;Da
+IT-Operations and Deputy Manager;1;;En
+Telecom;1;;En
+Back Office Technical Support;1;;En
+Call Distributor;1;;En
+War Room;1;;En
+Top Manager;1;;En
+Head of Procurement;1;;En
+Procurement consultant;1;;En
+Procurement support;1;;En
+Senior Procurement Consultant;1;;En
+Konto;1;;En
+Revision 1;1;;En,Da
+Revision 2;1;;En,Da
+Advisors;1;;En
+Baltic office;1;;En
+Evaluators;1;;En
+Quality Assurance;1;;En
+Filialchef;1;;Da
+rehabiliteringsteamet;1;;Da
+maintainer;1;;En
+repo owner;1;;En
+Facilities Management (FM) department;1;;En
+Human Resources (HR) department;1;;En
+Nævnsformand;1;;Da
+consectetur;1;;Pt
+Postmodtager;1;;Da
+Lokale grundejerforening;1;;Da
+Advokat;1;;Da
+Den rejsende;1;;Da
+Lektor;1;;Da
+Taxable Person;1;;En
+Klager;1;;Da
+Finansiel controller;1;;Da
+HR support;1;;En,Da
+Generalsekretariatet;1;;Da
+Worker 1;1;;En
+Worker 2;1;;En
+Pizzabager;1;;Da
+Bruger1;1;;Da
+Bruger2;1;;Da
+Staff member;1;;En
+Studentermedhjælp;1;;Da
+Student Assistant;1;;En
+Sellers lawyer;1;;En
+Pizzabud;1;;Da
+Pizzamand;1;;Da
+Indmelderen;1;;Da
+Registeransvarlig;1;;Da
+Production Support;1;;En
+Billing Responsible;1;;En
+Sales Agent;1;;En
+Shipping Responsible;1;;En
+Campaign Manager;1;;En
+Boat owner;1;;En
+Harbour assistant;1;;En
+Head of harbour;1;;En
